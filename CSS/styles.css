@@ -25,7 +25,7 @@ p{
 
 .grid-container{
     display: grid;
-    grid-template-columns: 33rem 33.7rem;
+    grid-template-columns: 34.2rem 33.7rem;
     grid-template-rows: 1fr;
     grid-template-areas: 
         'a b';
@@ -38,7 +38,7 @@ p{
     text-align: left;
     grid-area: a;
     padding: 3rem;
-    margin: 0rem 1rem;
+    margin: 0rem 2rem;
     font-family: 'Lexend Deca', sans-serif;
     font-weight: 400;
 }

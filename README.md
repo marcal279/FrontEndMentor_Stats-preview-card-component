@@ -7,7 +7,7 @@ Challenge source: https://www.frontendmentor.io/challenges/stats-preview-card-co
 
 Solution hosted on Vercel,
 
- Link: https://front-end-mentor-stats-preview-card-component-n6yd2u1x5.vercel.app
+ Link: https://front-end-mentor-stats-preview-card-component-kappa.vercel.app
 
 Problem consists of statistic display card with brief description and image with gradient background.
 

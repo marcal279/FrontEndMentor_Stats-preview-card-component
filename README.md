@@ -7,11 +7,15 @@ Challenge source: https://www.frontendmentor.io/challenges/stats-preview-card-co
 
 Solution hosted on Vercel,
 
- Link: https://front-end-mentor-stats-preview-card-component-kappa.vercel.app
+ Link: https://front-end-mentor-stats-preview-card-component-n6yd2u1x5.vercel.app
 
 Problem consists of statistic display card with brief description and image with gradient background.
 
 Consists of intermediate HTML & CSS, uses CSS grids for placement formatting and colour scheme as provided in problem statement
+
+
+
+## Screenshots
 
 Desired (Problem statement) design:
 ![desktop-design](https://user-images.githubusercontent.com/73192810/139816059-955b8e6b-44a1-4e3f-8de5-778f42db02f0.jpg)
